@@ -77,7 +77,7 @@ This project is a Python-based data analysis tool that fetches football match da
    - Replace the `api_key` variable in the code with your API key.
    - Run the script:
      ```bash
-     python request_matches_api.py
+     python request_api_matches.py
      ```
    - Follow the menu prompts to explore the data and visualizations.
 
