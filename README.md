@@ -94,12 +94,6 @@ This project helped me solidify my understanding of:
 
 ---
 
-## **Contributions**
-
-Contributions are welcome! Feel free to open issues or pull requests with suggestions, bug fixes, or new features.
-
----
-
 ## **Contact**
 
 If you have any questions or suggestions, feel free to reach out:
