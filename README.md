@@ -7,7 +7,7 @@ This project is a Python-based data analysis tool that fetches football match da
 ## **Concepts Applied**
 
 ### 1. **API Integration**
-   - **Data Fetching**: The project uses the `requests` library to fetch football match data from the [API-Football](https://apiv2.apifootball.com/) API.
+   - **Data Fetching**: The project uses the `requests` library to fetch football match data from the [API-Football](https://www.api-football.com/) API.
    - **Error Handling**: The code checks for API errors and handles them gracefully.
 
 ### 2. **Data Processing**
@@ -66,7 +66,7 @@ This project is a Python-based data analysis tool that fetches football match da
 1. **Requirements**:
    - Python 3.x
    - Libraries: `pandas`, `requests`, `matplotlib`
-   - API key from [API-Football](https://apiv2.apifootball.com/).
+   - API key from [API-Football](https://www.api-football.com/).
 
 2. **Steps**:
    - Clone the repository.
